@@ -1,2 +1,2 @@
-# EKA_KRISTIANTO_DAELI.github.io
-UTS_PEMROGRAMAN WEB 2
+# UTS
+UTS Pemrograman Web 2
